@@ -1,4 +1,4 @@
-# Motto
+# Favorite Saying 👍
 
 ```rust
 /// xfactor's motto
@@ -22,7 +22,7 @@ fn main() {
 
 # Rust Engineer ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-<div id='profile-them' style='display: flex; justify-content: space-evenly;' align='center'>
+<div id='profile-them' style='display: flex; flex-wrap: wrap; justify-content: center;' align='center'>
   <a target="_blank" href='https://www.hackerrank.com/profile/xfactor_toml'>
     <img height="180px" src='./assets/rust-coding-challenges.png' />
   </a>
