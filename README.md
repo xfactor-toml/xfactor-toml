@@ -24,11 +24,11 @@ fn main() {
 
 <div id='profile-them' style='display: flex; flex-wrap: wrap; justify-content: center;' align='center'>
   <a target="_blank" href="https://github.com/xfactor-toml/rust-coding-challenges">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=xfactor-toml&repo=rust-coding-challenges&show_owner=true&theme=radical" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=xfactor-toml&repo=rust-coding-challenges&show_owner=true&theme=radical" />
   </a>
 
   <a target="_blank" href='https://www.hackerrank.com/profile/xfactor_toml'>
-    <img height="180px" src='./assets/hackerrank-problem-solving.png' />
+    <img height="150px" src='./assets/hackerrank-problem-solving.png' />
   </a>
 </div>
 
